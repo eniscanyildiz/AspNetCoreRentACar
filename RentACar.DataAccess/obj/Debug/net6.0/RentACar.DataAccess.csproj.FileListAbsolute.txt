@@ -1,0 +1,17 @@
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.DataAccess.deps.json
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.DataAccess.runtimeconfig.json
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.DataAccess.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.DataAccess.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.csproj.AssemblyReference.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.AssemblyInfoInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.AssemblyInfo.cs
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.csproj.CoreCompileInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/refint/RentACar.DataAccess.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.genruntimeconfig.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/ref/RentACar.DataAccess.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/bin/Debug/net6.0/RentACar.Entity.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/obj/Debug/net6.0/RentACar.DataAccess.csproj.CopyComplete

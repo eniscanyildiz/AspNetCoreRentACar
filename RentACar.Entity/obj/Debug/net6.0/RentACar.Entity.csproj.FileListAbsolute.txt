@@ -1,0 +1,11 @@
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/bin/Debug/net6.0/RentACar.Entity.deps.json
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/bin/Debug/net6.0/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/bin/Debug/net6.0/RentACar.Entity.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.AssemblyInfoInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.AssemblyInfo.cs
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.csproj.CoreCompileInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/refint/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/ref/RentACar.Entity.dll

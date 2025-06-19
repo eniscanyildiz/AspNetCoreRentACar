@@ -1,0 +1,37 @@
+﻿@model RentACar.Entity.Entities.Car
+
+<h2>Add/Edit Car</h2>
+
+<form asp-action="Create">
+    <div>
+        <label asp-for="BrandId"></label>
+        <input asp-for="BrandId" />
+        <span asp-validation-for="BrandId"></span>
+    </div>
+    <div>
+        <label asp-for="Model"></label>
+        <input asp-for="Model" />
+        <span asp-validation-for="Model"></span>
+    </div>
+    <div>
+        <label asp-for="Year"></label>
+        <input asp-for="Year" />
+        <span asp-validation-for="Year"></span>
+    </div>
+    <div>
+        <label asp-for="DailyPrice"></label>
+        <input asp-for="DailyPrice" />
+        <span asp-validation-for="DailyPrice"></span>
+    </div>
+    <div>
+        <label asp-for="Available"></label>
+        <input type="checkbox" name="Available" value="true" @(Model?.Available == true ? "checked" : "") />
+        <input type="hidden" name="Available" value="false" />
+        <span asp-validation-for="Available"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

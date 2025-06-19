@@ -1,0 +1,17 @@
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.Business.deps.json
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.Business.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.Business.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.DataAccess.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.DataAccess.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/bin/Debug/net6.0/RentACar.Entity.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.csproj.AssemblyReference.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.AssemblyInfoInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.AssemblyInfo.cs
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.csproj.CoreCompileInputs.cache
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.csproj.CopyComplete
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/refint/RentACar.Business.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/RentACar.Business.pdb
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/obj/Debug/net6.0/ref/RentACar.Business.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MO5KMG+FbQ4=",
+  "dgSpecHash": "yfsLIXBacqF+QQIgaGKgXLd9c5T3kDoH/3iLHaYmdLY2NkjOvrHH3fbpNcUzB7cVVFUb2mDIfh1T8WQ1YI9/zA==",
   "success": true,
   "projectFilePath": "/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Business/RentACar.Business.csproj",
   "expectedPackageFiles": [
@@ -46,8 +46,8 @@
     "/Users/a1-13/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
     "/Users/a1-13/.nuget/packages/system.text.encoding.codepages/4.7.0/system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "/Users/a1-13/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
-    "/Users/a1-13/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/a1-13/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/a1-13/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/a1-13/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }

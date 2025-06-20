@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jOwgCZ5qXymzrbOLp7Gc2eLA2iUFCy8GxFYpjXOcUC9g77xMYYN37IgeIg2TOK+c0JuAO2f0tApguosrYCPSjg==",
+  "dgSpecHash": "dsid9/XqllU=",
   "success": true,
   "projectFilePath": "/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.DataAccess/RentACar.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -47,8 +47,8 @@
     "/Users/a1-13/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
     "/Users/a1-13/.nuget/packages/system.text.encoding.codepages/4.7.0/system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "/Users/a1-13/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
-    "/Users/a1-13/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/a1-13/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "/Users/a1-13/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/a1-13/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

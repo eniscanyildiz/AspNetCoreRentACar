@@ -9,3 +9,4 @@
 /Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/refint/RentACar.Entity.dll
 /Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.pdb
 /Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/ref/RentACar.Entity.dll
+/Users/a1-13/Projects/AspNetCoreRentACar/RentACar.Entity/obj/Debug/net6.0/RentACar.Entity.csproj.AssemblyReference.cache

@@ -15,6 +15,7 @@ namespace RentACar.Entity.Entities
         public decimal? DailyPrice { get; set; }
         public string? Description { get; set; }
         public bool Available { get; set; }
+        public string? ImageUrl { get; set; }
 
         public virtual Brand? Brand { get; set; }
         public virtual ICollection<Rental> Rentals { get; set; }

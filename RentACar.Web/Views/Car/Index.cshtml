@@ -1,37 +1,94 @@
-﻿@model IEnumerable<RentACar.Entity.Entities.Car>
+﻿@model List<RentACar.Entity.Entities.Car>
+@{
+    Layout = "_Layout";
+}
 
-<h2>Cars List</h2>
+<!DOCTYPE html>
 
-<p>
-    <a asp-action="Create">Add New Car</a>
-</p>
+<body>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Brand</th>
-            <th>Model</th>
-            <th>Year</th>
-            <th>Daily Price</th>
-            <th>Available</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var car in Model)
-        {
-            <tr>
-                <td>@(car.Brand != null ? car.Brand.Name : "Brand yok")</td>
-                <td>@car.Model</td>
-                <td>@car.Year</td>
-                <td>@car.DailyPrice</td>
-                <td>@car.Available</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@car.CarId">Edit</a> |
-                    <a asp-action="Delete" asp-route-id="@car.CarId">Delete</a> 
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    
+    <!-- END nav -->
 
+    <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
+                <div class="col-md-9 ftco-animate pb-5">
+                    <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Ana Menü <i class="ion-ios-arrow-forward"></i></a></span> <span>Arabalar <i class="ion-ios-arrow-forward"></i></span></p>
+                    <h1 class="mb-3 bread">Arabanı Seç</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="ftco-section bg-light">
+        <div class="container">
+            <div class="row">
+                @foreach(var car in Model)
+{
+<div class="col-md-4">
+    <div class="car-wrap rounded ftco-animate">
+        <div class="img rounded d-flex align-items-end" style="background-image: url(@car.ImageUrl);">
+        </div>
+        <div class="text">
+            <h2 class="mb-0"><a href="car-single.html">@car.Brand.Name</a></h2>
+            <div class="d-flex mb-3">
+                <span class="cat">@car.Model</span>
+                <p class="price ml-auto">$@car.DailyPrice  <span>/gün</span></p>
+            </div>
+            <p class="d-flex mb-0 d-block"><a href="#" class="btn btn-primary py-2 mr-1">Şimdi Kirala</a> <a href="car-single.html" class="btn btn-secondary py-2 ml-1">Details</a></p>
+        </div>
+    </div>
+</div>
+}
+                
+
+            </div>
+            <div class="row mt-5">
+                <div class="col text-center">
+                    <div class="block-27">
+                        <ul>
+                            <li><a href="#">&lt;</a></li>
+                            <li class="active"><span>1</span></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&gt;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <!-- loader -->
+    <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
+
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/jquery.easing.1.3.js"></script>
+    <script src="~/js/jquery.waypoints.min.js"></script>
+    <script src="~/js/jquery.stellar.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/aos.js"></script>
+    <script src="~/js/jquery.animateNumber.min.js"></script>
+    <script src="~/js/bootstrap-datepicker.js"></script>
+    <script src="~/js/jquery.timepicker.min.js"></script>
+    <script src="~/js/scrollax.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    <script src="~/js/google-map.js"></script>
+    <script src="~/js/main.js"></script>
+
+</body>
